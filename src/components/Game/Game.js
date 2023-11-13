@@ -10,7 +10,7 @@ import { checkGuess } from "../../game-helpers";
 import GuessKeyboard from "../GuessKeyboard/GuessKeyboard";
 
 // Pick a random word on every pageload.
-const answer = sample(WORDS);
+// const answer = sample(WORDS);
 // To make debugging easier, we'll log the solution in the console.
 // console.info({ answer });
 
